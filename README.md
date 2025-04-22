@@ -26,7 +26,7 @@ In this game, players are challenged to locate all occurrences of a specific fru
    - A **Reset** button at the bottom restarts the game.
    - The board reinitializes with a new random setup.
 
-### 🖼️ UI Flow (As Shown in Screenshots)
+### 🖼️ UI Flow
 
 - **(a) App Starting**: Initial board with the full fruit set.
 - **(b) Finding the First Item**: A fruit has been found, counter decreases.
